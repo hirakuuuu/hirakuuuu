@@ -1,4 +1,4 @@
-### Hi there 👋
+### github stats
 
 <!--
 **hirakuuuu/hirakuuuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hirakuuuu&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirakuuuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### AtCoder
+[![Rating](https://badgen.org/img/atcoder/mohio/rating/algorithm?style=plastic)](https://atcoder.jp/users/mohio?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/mohio/rating/heuristic?style=plastic)](https://atcoder.jp/users/mohio?contestType=heuristic)
