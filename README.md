@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirakuuuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### AtCoder
-[![Rating](https://badgen.org/img/atcoder/mohio/rating/algorithm?style=plastic)](https://atcoder.jp/users/mohio?contestType=algo)
-[![Rating(Heuristic)](https://badgen.org/img/atcoder/mohio/rating/heuristic?style=plastic)](https://atcoder.jp/users/mohio?contestType=heuristic)
+[![Rating](https://badgen.org/img/atcoder/mohio/rating/algorithm?style=flat)](https://atcoder.jp/users/mohio?contestType=algo)
+[![Rating(Heuristic)](https://badgen.org/img/atcoder/mohio/rating/heuristic?style=flat)](https://atcoder.jp/users/mohio?contestType=heuristic)
