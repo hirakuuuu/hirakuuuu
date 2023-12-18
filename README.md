@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hirakuuuu&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### AtCoder
-[![mohio](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fmohio)](https://atcoder.jp/users/mohio)
+[![mohio](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fhirakuuuu)](https://atcoder.jp/users/hirakuuuu)
